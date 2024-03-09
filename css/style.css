@@ -1,0 +1,10 @@
+* {
+    background-color: burlywood;
+}
+
+header {
+    background-color: crimson;
+}
+.inRow {
+    display: inline-block;
+}
